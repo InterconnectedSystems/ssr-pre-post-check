@@ -6,6 +6,18 @@ A desktop GUI application for **Juniper Session Smart Router (SSR)** network eng
 
 ---
 
+## Screenshots
+
+| Main Window (Connected) | Post-Check Log |
+|---|---|
+| ![Main window showing connected state with router list and checks panel](screenshots/01-main-connected.png) | ![Post-check log showing 13 changes found across routers](screenshots/04-post-check-log.png) |
+
+| Diff Viewer | Character-Level Detail |
+|---|---|
+| ![Diff viewer showing Added/Removed/Changed rows across checks](screenshots/02-diff-viewer.png) | ![Side-by-side character-level diff popup for a single change](screenshots/03-detail-dialog.png) |
+
+---
+
 ## What It Does
 
 Network changes carry risk. This tool reduces that risk by:
